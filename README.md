@@ -86,6 +86,9 @@ The derived attributes sales, sales\_sum, and balance have to be updated for the
 
 The derived attributes purchases, purchases\_sum, and balance have to be updated for the referenced buyer user record.
 
+![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfS99qUsTSIbqGX03HwFpCzfom-eFdJdIyMD9pjRP3d3iIASaOS96Vf6vz0raT4gBX6N0uyDg2sD6jKbG7S9PTnYec-MtWxiihFcqD2MDQTZVOAfb32CFzNYcgxgQNQBevDNI5vaq2noecmGpi6sD2kOsST?key=07PbvhN_YYcUfuFBLacp3g)
+
+
 **(9) Delete offer by sale id**
 
 An authenticated user is only allowed to delete his own offers
