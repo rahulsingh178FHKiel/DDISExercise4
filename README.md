@@ -24,7 +24,9 @@ Github repo to show the code used in exercise 4 of DDIS
 
 |                                                                                                                                        |
 | -------------------------------------------------------------------------------------------------------------------------------------- |
-| docker build -t python-flask . docker tag python-flask docker push europe-west1-docker.pkg.dev/testprojectddis/dockerrepo/python-flask |
+``` docker build -t python-flask ```
+```docker tag python-flask```
+```docker push europe-west1-docker.pkg.dev/testprojectddis/dockerrepo/python-flask ```
 
 - **Creating a service which runs a container created from the docker image pushed above.**
 
