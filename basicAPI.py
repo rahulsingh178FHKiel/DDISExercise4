@@ -53,7 +53,7 @@ def login():
         for passwordrow in result:
             print("in result")
             print(row)
-             = ''.join(result[0])
+            password = ''.join(result[0])
         cursor.close()
     conn.close()
 
